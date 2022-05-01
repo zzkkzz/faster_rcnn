@@ -1,28 +1,27 @@
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000002.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000007.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000015.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000020.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000026.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000027.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000028.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000039.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000052.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000086.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000093.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000095.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000102.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000108.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000115.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000118.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000120.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000123.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000125.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000126.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000132.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000135.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000142.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000151.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000156.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000163.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000167.jpg
-C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000169.jpg
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000330.jpg 102,69,117,83,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000331.jpg 65,131,82,147,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000332.jpg 184,26,198,40,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000333.jpg 42,112,57,124,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000334.jpg 188,111,207,130,0 178,163,193,178,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000335.jpg 86,165,107,178,0 137,40,158,53,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000336.jpg 64,193,83,207,0 132,31,147,47,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000337.jpg 150,17,171,32,0 19,270,35,281,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000338.jpg 69,111,89,125,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000339.jpg 143,156,160,174,0 125,40,145,56,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000340.jpg 141,173,162,185,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000341.jpg 55,245,73,261,0 235,43,253,58,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000342.jpg 118,262,137,275,0 141,23,162,36,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000343.jpg 235,173,252,190,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000344.jpg 138,207,154,219,0 135,241,152,254,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000345.jpg 139,219,156,234,0 150,234,168,249,0 193,81,210,95,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000346.jpg 132,250,151,263,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000347.jpg 64,109,82,120,0 146,17,166,28,0 135,36,155,51,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000348.jpg 121,90,141,103,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000349.jpg 147,242,164,255,0 145,40,163,56,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000350.jpg 66,117,86,133,0 68,79,86,95,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000351.jpg 188,190,207,204,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000352.jpg 91,278,104,293,0 241,41,259,56,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000353.jpg 96,155,119,169,0 100,221,124,238,0 124,62,142,75,0 182,86,201,101,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000354.jpg 126,104,141,117,0 171,108,190,121,0 133,117,149,128,0 42,236,60,249,0 99,258,117,272,0 134,27,155,40,0 91,65,111,78,0 138,70,159,83,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000355.jpg 120,275,137,292,0 214,70,236,83,0
+C:\Users\12849\Desktop\PYTHON\faster_rcnn\VOCdevkit/VOC2007/JPEGImages/000356.jpg 82,143,103,158,0 87,244,104,258,0 138,58,154,70,0
