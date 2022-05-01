@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="122e0a7c-c958-47a8-b1e5-e55eef0a8858" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/anchors.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/anchors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2007_train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2007_train.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +28,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tiff_deal" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.anchors">
+  <component name="RunManager" selected="Python.voc_annotation">
     <configuration name="anchors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="faster_rcnn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,10 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.voc_annotation" />
         <item itemvalue="Python.anchors" />
         <item itemvalue="Python.predict" />
         <item itemvalue="Python.train" />
-        <item itemvalue="Python.voc_annotation" />
       </list>
     </recent_temporary>
   </component>
