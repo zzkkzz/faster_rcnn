@@ -71,6 +71,7 @@ if __name__ == "__main__":
             else:
                 r_image = frcnn.detect_image(image, crop = crop)
                 r_image.show()
+                r_image.save("1.jpg",'JPEG',quality=100)
 
     elif mode == "video":
         capture=cv2.VideoCapture(video_path)

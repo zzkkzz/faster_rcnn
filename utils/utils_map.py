@@ -587,7 +587,7 @@ def get_map(MINOVERLAP, draw_plot, path = './map_out'):
             lamr_dictionary[class_name] = lamr
 
             if draw_plot:
-                plt.plot(rec, prec, '-o')
+                plt.plot(rec, prec)
                 area_under_curve_x = mrec[:-1] + [mrec[-2]] + [mrec[-1]]
                 area_under_curve_y = mprec[:-1] + [0.0] + [mprec[-1]]
                 plt.fill_between(area_under_curve_x, 0, area_under_curve_y, alpha=0.2, edgecolor='r')
@@ -595,7 +595,7 @@ def get_map(MINOVERLAP, draw_plot, path = './map_out'):
                 fig = plt.gcf()
                 fig.canvas.set_window_title('AP ' + class_name)
 
-                plt.title('class: ' + text)
+                plt.title("AP")
                 plt.xlabel('Recall')
                 plt.ylabel('Precision')
                 axes = plt.gca()
@@ -605,7 +605,7 @@ def get_map(MINOVERLAP, draw_plot, path = './map_out'):
                 plt.cla()
 
                 plt.plot(score, F1, "-", color='orangered')
-                plt.title('class: ' + F1_text + "\nscore_threhold=0.5")
+                plt.title("F1")
                 plt.xlabel('Score_Threhold')
                 plt.ylabel('F1')
                 axes = plt.gca()
